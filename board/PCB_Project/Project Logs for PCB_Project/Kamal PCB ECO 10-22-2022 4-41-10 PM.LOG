@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Motor1_Enable Pin=U1-8
+Removed Pin From Net: NetName=Motor2_Enable Pin=U1-9
+Add Pin To Net: Unknown Pin: Pin J2-C/D
+Added Pin To Net: NetName=Motor2_Enable Pin=U1-8
+Added Pin To Net: NetName=Motor1_Enable Pin=U1-9

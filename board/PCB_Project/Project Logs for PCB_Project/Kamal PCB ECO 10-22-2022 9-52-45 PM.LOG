@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND_MOTOR Pin=P10-1
+Removed Pin From Net: NetName=+12 Pin=P10-2
+Removed Pin From Net: NetName=GND_MOTOR Pin=P10-3
+Removed Pin From Net: NetName=+12 Pin=P10-4
+Add Pin To Net: Unknown Pin: Pin J1-C/D
+Added Pin To Net: NetName=+12 Pin=P10-1
+Added Pin To Net: NetName=GND_MOTOR Pin=P10-2
+Added Pin To Net: NetName=+12 Pin=P10-3
+Added Pin To Net: NetName=GND_MOTOR Pin=P10-4

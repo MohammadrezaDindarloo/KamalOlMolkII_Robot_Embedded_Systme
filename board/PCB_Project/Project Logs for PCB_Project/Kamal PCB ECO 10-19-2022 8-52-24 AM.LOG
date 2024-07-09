@@ -1,0 +1,11 @@
+Added Component: Designator=J4(SM02B-SRSS-TB(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM02B-SRSS-TB_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM02B-SRSS-TB%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/447499/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_MOTOR Pin=J4-1
+Added Pin To Net: NetName=PWM_Servo Pin=J4-2
+Added Member To Class: ClassName=kamal_schematic Member=Component J4 SM02B-SRSS-TB(LF)(SN)

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MOTOR_B_B1 Pin=P9-1
+Removed Pin From Net: NetName=MOTOR_B_B2 Pin=P9-2
+Removed Pin From Net: NetName=MOTOR_B_A1 Pin=P9-3
+Removed Pin From Net: NetName=MOTOR_B_A2 Pin=P9-4
+Add Pin To Net: Unknown Pin: Pin J1-C/D
+Added Pin To Net: NetName=MOTOR_B_A2 Pin=P9-1
+Added Pin To Net: NetName=MOTOR_B_A1 Pin=P9-2
+Added Pin To Net: NetName=MOTOR_B_B2 Pin=P9-3
+Added Pin To Net: NetName=MOTOR_B_B1 Pin=P9-4

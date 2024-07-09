@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MOTOR_A_A2 Pin=P4-3
+Removed Pin From Net: NetName=MOTOR_A_A1 Pin=P4-4
+Add Pin To Net: Unknown Pin: Pin J1-C/D
+Added Pin To Net: NetName=MOTOR_A_A1 Pin=P4-3
+Added Pin To Net: NetName=MOTOR_A_A2 Pin=P4-4
+Added Member To Class: ClassName=kamal_schematic Member=Component P10 691321300004

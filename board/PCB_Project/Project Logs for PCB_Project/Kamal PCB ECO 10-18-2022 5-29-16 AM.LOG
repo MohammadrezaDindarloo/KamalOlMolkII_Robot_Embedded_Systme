@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=1 NewDesignator=*1
+Added Pin To Net: NetName=5V_Isolated Pin=D17-2
+Added Pin To Net: NetName=5V_Isolated Pin=D18-2
+Added Member To Class: ClassName=kamal_schematic Member=Component J3 54819-0519

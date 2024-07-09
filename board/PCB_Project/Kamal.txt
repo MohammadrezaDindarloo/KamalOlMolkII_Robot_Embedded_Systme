@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\PACR document\kamal_board\board\PCB_Project\Kamal.PcbDoc
+Date         : 10/23/2022
+Time         : 7:55:01 AM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 309
+    Connections routed, 309
+    Connections remaining, 0
+count : 4

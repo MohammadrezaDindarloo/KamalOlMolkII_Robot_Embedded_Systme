@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Direction2_ESP Pin=U1-12
+Removed Pin From Net: NetName=PWM_ESP Pin=U1-33
+Added Pin To Net: NetName=PWM_ESP Pin=U1-12
+Added Pin To Net: NetName=Direction2_ESP Pin=U1-33

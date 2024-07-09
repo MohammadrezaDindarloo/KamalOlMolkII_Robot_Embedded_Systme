@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D17 Old Footprint=LED_V0805-SMD-R (Red) New Footprint=LED_0805
+Change Component Footprint: Designator=D18 Old Footprint=LED_V0805-SMD-R (Red) New Footprint=LED_0805
+Change Component Comment : Designator=D17 Old Comment=LED SMD PACKAGE New Comment=LED_SMD_0805
+Change Component Comment : Designator=D18 Old Comment=LED SMD PACKAGE New Comment=LED_SMD_0805
+Change component parameters: Designator = "D17" ("D17"); Footprint = "LED_V0805-SMD-R (Red)"; UniqueID = "\DPGHJJMO" ("\DPGHJJMO")
+Change component parameters: Designator = "D18" ("D18"); Footprint = "LED_V0805-SMD-R (Red)"; UniqueID = "\MUAEWDSN" ("\MUAEWDSN")
